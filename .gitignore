@@ -1,0 +1,11 @@
+references
+packages
+/Game/x64
+ImGui
+.vs
+x64
+Game/imgui.ini
+Game/packages.config
+*.user
+*.filters
+*.vcxproj
